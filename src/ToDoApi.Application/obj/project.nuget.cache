@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e2QFEjvGQqw=",
+  "dgSpecHash": "4e3biFXDsu0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj",
+  "projectFilePath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

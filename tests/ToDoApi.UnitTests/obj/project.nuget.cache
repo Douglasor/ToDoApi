@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5uEFGRg66xM=",
+  "dgSpecHash": "9PVXEDPGQM0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\tests\\ToDoApi.UnitTests\\ToDoApi.UnitTests.csproj",
+  "projectFilePath": "C:\\Projetos\\ToDoApi\\tests\\ToDoApi.UnitTests\\ToDoApi.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dougl\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\dougl\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

@@ -5685,11 +5685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\tests\\ToDoApi.UnitTests\\ToDoApi.UnitTests.csproj",
+      "projectUniqueName": "C:\\Projetos\\ToDoApi\\tests\\ToDoApi.UnitTests\\ToDoApi.UnitTests.csproj",
       "projectName": "ToDoApi.UnitTests",
-      "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\tests\\ToDoApi.UnitTests\\ToDoApi.UnitTests.csproj",
+      "projectPath": "C:\\Projetos\\ToDoApi\\tests\\ToDoApi.UnitTests\\ToDoApi.UnitTests.csproj",
       "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\tests\\ToDoApi.UnitTests\\obj\\",
+      "outputPath": "C:\\Projetos\\ToDoApi\\tests\\ToDoApi.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5710,8 +5710,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj": {
-              "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj"
+            "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj": {
+              "projectPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Api\\ToDoApi.Api.csproj": {}
+    "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Api\\ToDoApi.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Api\\ToDoApi.Api.csproj": {
+    "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Api\\ToDoApi.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Api\\ToDoApi.Api.csproj",
+        "projectUniqueName": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Api\\ToDoApi.Api.csproj",
         "projectName": "ToDoApi.Api",
-        "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Api\\ToDoApi.Api.csproj",
+        "projectPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Api\\ToDoApi.Api.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Api\\obj\\",
+        "outputPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj": {
-                "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj"
+              "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj": {
+                "projectPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj"
               },
-              "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj"
+              "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj": {
+                "projectPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj": {
+    "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj",
+        "projectUniqueName": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj",
         "projectName": "ToDoApi.Application",
-        "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj",
+        "projectPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Application\\ToDoApi.Application.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Application\\obj\\",
+        "outputPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -123,8 +123,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj"
+              "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj"
               }
             }
           }
@@ -164,14 +164,14 @@
         }
       }
     },
-    "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj": {
+    "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj",
         "projectName": "ToDoApi.Domain",
-        "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj",
+        "projectPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -229,14 +229,14 @@
         }
       }
     },
-    "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj": {
+    "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj",
         "projectName": "ToDoApi.Infrastructure",
-        "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj",
+        "projectPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Infrastructure\\ToDoApi.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Infrastructure\\obj\\",
+        "outputPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -257,8 +257,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\dougl\\OneDrive\\Documentos\\Projetos\\ToDoApi\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj"
+              "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\ToDoApi\\src\\ToDoApi.Domain\\ToDoApi.Domain.csproj"
               }
             }
           }
