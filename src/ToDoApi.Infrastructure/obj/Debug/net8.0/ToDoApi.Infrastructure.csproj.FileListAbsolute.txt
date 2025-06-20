@@ -1,0 +1,15 @@
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\bin\Debug\net8.0\ToDoApi.Infrastructure.deps.json
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\bin\Debug\net8.0\ToDoApi.Infrastructure.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\bin\Debug\net8.0\ToDoApi.Infrastructure.pdb
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\bin\Debug\net8.0\ToDoApi.Domain.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\bin\Debug\net8.0\ToDoApi.Domain.pdb
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\ToDoApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\ToDoApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\ToDoApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\ToDoApi.Infrastructure.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\ToDoApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\ToDoApi..952739C0.Up2Date
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\ToDoApi.Infrastructure.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\refint\ToDoApi.Infrastructure.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\ToDoApi.Infrastructure.pdb
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Infrastructure\obj\Debug\net8.0\ref\ToDoApi.Infrastructure.dll

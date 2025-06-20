@@ -1,0 +1,11 @@
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\bin\Debug\net8.0\ToDoApi.Domain.deps.json
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\bin\Debug\net8.0\ToDoApi.Domain.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\bin\Debug\net8.0\ToDoApi.Domain.pdb
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\obj\Debug\net8.0\ToDoApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\obj\Debug\net8.0\ToDoApi.Domain.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\obj\Debug\net8.0\ToDoApi.Domain.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\obj\Debug\net8.0\ToDoApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\obj\Debug\net8.0\ToDoApi.Domain.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\obj\Debug\net8.0\refint\ToDoApi.Domain.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\obj\Debug\net8.0\ToDoApi.Domain.pdb
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Domain\obj\Debug\net8.0\ref\ToDoApi.Domain.dll

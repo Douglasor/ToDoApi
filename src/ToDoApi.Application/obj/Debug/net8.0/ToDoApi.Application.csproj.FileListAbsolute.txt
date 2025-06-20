@@ -1,0 +1,15 @@
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\bin\Debug\net8.0\ToDoApi.Application.deps.json
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\bin\Debug\net8.0\ToDoApi.Application.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\bin\Debug\net8.0\ToDoApi.Application.pdb
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\bin\Debug\net8.0\ToDoApi.Domain.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\bin\Debug\net8.0\ToDoApi.Domain.pdb
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\ToDoApi.Application.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\ToDoApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\ToDoApi.Application.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\ToDoApi.Application.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\ToDoApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\ToDoApi..5CFFB5E2.Up2Date
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\ToDoApi.Application.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\refint\ToDoApi.Application.dll
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\ToDoApi.Application.pdb
+C:\Users\dougl\OneDrive\Documentos\Projetos\ToDoApi\ToDoApi\src\ToDoApi.Application\obj\Debug\net8.0\ref\ToDoApi.Application.dll
